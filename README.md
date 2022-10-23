@@ -1,8 +1,7 @@
 # Phase 2 Project
 
 King County Housing Analysis
-![graph1](../Images/house_saLe1.png)
-![graph1](../Images/house_saLe.png)
+![graph1](./Images/house_sale1.png)
 ![awesome](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-2-project-campus/master/halfway-there.gif)
 
 All that remains in Phase 2 is to put our newfound data science skills to use with a large project! This project should take 20 to 30 hours to complete.
