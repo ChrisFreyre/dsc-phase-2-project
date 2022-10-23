@@ -1,6 +1,7 @@
 # Phase 2 Project
 
-Another module down--you're almost half way there!
+King County Housing Analysis
+![graph1](./Images/house_saLe1.png)
 
 ![awesome](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-2-project-campus/master/halfway-there.gif)
 
