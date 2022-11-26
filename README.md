@@ -13,7 +13,7 @@
 
 ## Project Overview & Business Problem
 
-In this project I will provide information, using regression modeling analysis of house sales data in King County, for Real-State agencies to advise home owners on how performing a renovation might increase price of home sales and if so, what factors are relevant to this renovation.
+In this project I will provide information, using regression modeling analysis of house sales data in King County, for real estate agencies to advise home owners on how performing a renovation might increase price of home sales and if so, what factors are relevant to this renovation.
 
 
 ### Data Understanding
